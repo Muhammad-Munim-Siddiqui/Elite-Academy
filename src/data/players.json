@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Hassaan Siddiqui Muhammad",
+    "name": "Jashon",
     "overallScore": 94,
     "weeklyScores": [92, 95, 91, 96, 94, 93, 97],
     "matchesPlayed": 47,
@@ -9,17 +9,17 @@
   },
   {
     "id": 2,
-    "name": "Muhammad Yaseen",
-    "overallScore": 91,
-    "weeklyScores": [88, 90, 92, 93, 91, 89, 94],
+    "name": "Alex",
+    "overallScore": 81,
+    "weeklyScores": [78, 90, 92, 93, 91, 89, 94],
     "matchesPlayed": 42,
     "bio": "Known for her explosive speed and tactical awareness. Elena has been the academy's most improved player over the past season."
   },
   {
     "id": 3,
-    "name": "MUhammad Munim Siddiqui",
-    "overallScore": 89,
-    "weeklyScores": [85, 87, 90, 88, 91, 92, 90],
+    "name": "Muhammad Munim Siddiqui",
+    "overallScore": 99,
+    "weeklyScores": [85, 87, 90, 88, 91, 92, 98],
     "matchesPlayed": 38,
     "bio": "A technical specialist with exceptional ball control. James excels in high-pressure situations and clutch performances."
   },
